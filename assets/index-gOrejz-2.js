@@ -9669,7 +9669,7 @@ function Xf({onLogin: e}) {
                     children: "Mick"
                 }), p.jsx("p", {
                     className: "text-slate-300",
-                    children: "Enter the password(1234)"
+                    children: "Enter the password"
                 })]
             }), p.jsxs("div", {
                 className: `bg-white/10 backdrop-blur-xl rounded-2xl sm:rounded-3xl p-4 sm:p-8 shadow-2xl border border-white/20 ${i ? "animate-shake" : ""}`,
