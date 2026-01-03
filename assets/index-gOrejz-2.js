@@ -9724,7 +9724,7 @@ function Kf() {
                     }), p.jsx("div", {
                         className: "relative w-32 h-32 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://xatimg.com/image/MtFMG3EGjsuO.png",
+                            src: "https://xatimg.com/image/7c336CyQyepn.png",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
