@@ -9581,7 +9581,7 @@ function Xf({onLogin: e}) {
       , [r,l] = U.useState(!1)
       , [i,o] = U.useState(!1)
       , u = U.useRef([])
-      , s = "MTIzNA=="  // Base64 pentru pass "1234"
+      , s = "Mjg0Ng=="  // Base64 pentru parola
       , c = "";  // Nu mai avem nevoie de cheie XOR
 
     function v(_, d) {
@@ -9659,7 +9659,7 @@ function Xf({onLogin: e}) {
                     }), p.jsx("div", {
                         className: "relative w-24 h-24 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://i.pravatar.cc/300?img=12",
+                            src: "https://xatimg.com/image/XaCPwbPWqFar.png?img=12",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
@@ -9724,7 +9724,7 @@ function Kf() {
                     }), p.jsx("div", {
                         className: "relative w-32 h-32 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://i.pravatar.cc/300?img=12",
+                            src: "https://xatimg.com/image/MtFMG3EGjsuO.png",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
@@ -9751,7 +9751,7 @@ function Kf() {
                             children: "EN"
                         })]
                     }), p.jsxs("a", {
-                        href: "https://xat.com/Trade",
+                        href: "https://mundoxat.github.io/xatme/",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className: "flex items-center gap-2 px-4 py-2 bg-white/10 rounded-xl border border-white/20 hover:bg-white/20 transition",
@@ -9759,7 +9759,7 @@ function Kf() {
                             className: "w-4 h-4 text-amber-400"
                         }), p.jsx("span", {
                             className: "text-white text-sm",
-                            children: "Trade"
+                            children: "xatframe"
                         })]
                     })]
                 })]
@@ -9798,25 +9798,25 @@ function Yf() {
       , [n,r] = U.useState({})
       , l = [{
         id: 1,
-        url: "https://media.tenor.com/cb-inJNtsd4AAAAM/anime.gif?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/ZhaUr1dI1tBd.jpg?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 1",
-        description: "Happy Anime Boy GIFs",
+        description: "A special memory cherished with care",
         isGif: !1
     }, {
         id: 2,
-        url: " https://media.tenor.com/MM3La2Dx0c4AAAAM/onimai-cute-anime-girl-smile-smiling.gif?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/JoD0PhL3vBIO.png?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 2",
-        description: "Happy Anime Girl GIFs",
+        description: "A special memory cherished with care",
         isGif: !0
     }, {
         id: 3,
-        url: "https://media.tenor.com/En4BFk4ihwgAAAAM/yay-yeah.gif?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/XaCPwbPWqFar.png?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 3",
         description: "A special memory cherished with care",
         isGif: !1
     }, {
         id: 4,
-        url: "https://i.pinimg.com/originals/83/92/ef/8392ef9be01706d092dd65efe3f7affe.gif?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/WNomsplxG1xH.png?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 4",
         description: "A special memory cherished with care",
         isGif: !1
@@ -9851,7 +9851,7 @@ function Yf() {
                     }), p.jsx("div", {
                         className: "relative w-20 h-20 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://i.pravatar.cc/300?img=12",
+                            src: "https://xatimg.com/image/XaCPwbPWqFar.png?img=12",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
@@ -9968,7 +9968,7 @@ function Jf() {
                     }), p.jsx("div", {
                         className: "relative w-24 h-24 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://i.pravatar.cc/300?img=12",
+                            src: "https://xatimg.com/image/XaCPwbPWqFar.png?img=12",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
