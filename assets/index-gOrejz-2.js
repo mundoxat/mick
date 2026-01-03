@@ -10012,7 +10012,7 @@ function Jf() {
                             children: "🐾"
                         }), p.jsx("p", {
                             className: "text-center text-slate-300",
-                            children: "Just live..."
+                            children: "How do you know it's over? Maybe when you love the memories more than the person beside you. – Mick (10004)"
                         })]
                     })]
                 })
