@@ -10183,7 +10183,7 @@ function bf({onLogout: e}) {
                                 className: "w-5 h-5"
                             }), p.jsx("span", {
                                 className: "text-xs font-medium",
-                                children: "Married"
+                                children: "Old Love"
                             })]
                         }), p.jsxs("button", {
                             onClick: () => n("fotos"),
@@ -10192,7 +10192,7 @@ function bf({onLogout: e}) {
                                 className: "w-5 h-5"
                             }), p.jsx("span", {
                                 className: "text-xs font-medium",
-                                children: "Fotos"
+                                children: "Photos"
                             })]
                         }), p.jsxs("button", {
                             onClick: e,
@@ -10201,7 +10201,7 @@ function bf({onLogout: e}) {
                                 className: "w-5 h-5"
                             }), p.jsx("span", {
                                 className: "text-xs font-medium",
-                                children: "Sair"
+                                children: "Log Out"
                             })]
                         })]
                     })
