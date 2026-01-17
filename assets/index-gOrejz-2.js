@@ -9835,9 +9835,15 @@ function Yf() {
     }, {
         id: 7,
         url: "https://xatimg.com/image/N4IrjX0klMVa.png?auto=compress&cs=tinysrgb&w=800",
+        title: "Moment 7",
+        description: "A special memory cherished with care",
+        isGif: !1 
+    }, {
+        id: 7,
+        url: "https://xatimg.com/image/2hwMSOBsAdMZ.png?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 8",
         description: "A special memory cherished with care",
-        isGif: !1      
+        isGif: !1       
     }]
       , i = () => {
         e !== null && e > 0 && t(e - 1)
