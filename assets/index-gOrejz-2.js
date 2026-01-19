@@ -10029,7 +10029,7 @@ function Jf() {
                             children: [p.jsx("div", {
                                 className: "w-20 h-20 rounded-full bg-gradient-to-br from-pink-400 to-pink-600 p-1",
                                 children: p.jsx("img", {
-                                    src: "https://media.tenor.com/cb-inJNtsd4AAAAM/anime.gif",
+                                    src: "https://media.tenor.com/QXHAvtiEd4YAAAAM/cheng-xiaoshi-link-click.gif",
                                     alt: "ELE",
                                     className: "w-full h-full rounded-full object-cover"
                                 })
@@ -10038,7 +10038,7 @@ function Jf() {
                             }), p.jsx("div", {
                                 className: "w-20 h-20 rounded-full bg-gradient-to-br from-purple-400 to-purple-600 p-1",
                                 children: p.jsx("img", {
-                                    src: "https://media.tenor.com/89QSIUPhqBkAAAAM/anime-girl-happy.gif",
+                                    src: "https://media.tenor.com/YseiXI4o5bsAAAAM/sad-pout.gif",
                                     alt: "ELA",
                                     className: "w-full h-full rounded-full object-cover"
                                 })
