@@ -10044,10 +10044,10 @@ function Jf() {
                             })]
                         }), p.jsx("h3", {
                             className: "text-2xl font-bold text-center text-white mb-2",
-                            children: "🐾"
+                            children: "😥"
                         }), p.jsx("p", {
                             className: "text-center text-slate-300",
-                            children: "How do you know it's over? Maybe when you love the memories more than the person beside you. – Mick (10004)"
+                            children: "👩🏼Her revenge:🙍🏻,🙍🏼,🙎🏻‍♂️,🙎🏽‍♂️,🙍🏽.  -  👱‍♂️My revenge:🚗,💵,🏚️,💰,🪙."
                         })]
                     })]
                 })
