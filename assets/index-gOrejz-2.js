@@ -10047,8 +10047,7 @@ function Jf() {
                             children: "😥"
                         }), p.jsx("p", {
                             className: "text-center text-slate-300",
-                            children: "👩🏼Her revenge:🙍🏻,🙍🏼,🙎🏻‍♂️,🙎🏽‍♂️,🙍🏽.  -  👱‍♂️My revenge:🚗,💵,🏚️,💰,🪙.",
-                            children: "You've become somebody!💪"
+                            children: "👩🏼Her revenge:🙍🏻,🙍🏼,🙎🏻‍♂️,🙎🏽‍♂️,🙍🏽.  -  👱‍♂️My revenge:🚗,💵,🏚️,💰,🪙."
                         })]
                     })]
                 })
