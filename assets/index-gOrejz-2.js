@@ -9748,7 +9748,7 @@ function Kf() {
                             className: "w-4 h-4 text-amber-400"
                         }), p.jsx("span", {
                             className: "text-white text-sm",
-                            children: "EN"
+                            children: "RO"
                         })]
                     }), p.jsxs("a", {
                         href: "https://mundoxat.github.io/xatme/",
