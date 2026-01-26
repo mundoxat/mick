@@ -10134,7 +10134,7 @@ function qf() {
                     className: "flex-1 min-w-0",
                     children: p.jsx("div", {
                         className: "text-white font-semibold text-xs truncate",
-                        children: "Dani Mocanu-Voi nu mă haliți"
+                        children: "Our Father, who art in heaven..."
                     })
                 })]
             }), p.jsxs("div", {
