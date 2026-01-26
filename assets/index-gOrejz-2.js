@@ -10044,10 +10044,10 @@ function Jf() {
                             })]
                         }), p.jsx("h3", {
                             className: "text-2xl font-bold text-center text-white mb-2",
-                            children: "😥"
+                            children: "😔"
                         }), p.jsx("p", {
                             className: "text-center text-slate-300",
-                            children: "👩🏼Her revenge:🙍🏻,🙍🏼,🙎🏻‍♂️,🙎🏽‍♂️,🙍🏽.  -  👱‍♂️My revenge:🚗,💵,🏚️,💰,🪙."
+                            children: "Our Father, who art in heaven, forgive those who lack character and give strength to those who love, so they can forgive those who sin.😞"
                         })]
                     })]
                 })
