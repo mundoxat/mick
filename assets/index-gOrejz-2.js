@@ -9808,7 +9808,7 @@ function Kf() {
                         }), "Quote:"]
                     }), p.jsx("p", {
                         className: "text-slate-300 leading-relaxed",
-                        children: "It's every time I look into your mirror-like eyes with desire that I kiss you and see myself declaring the end.🎶"
+                        children: "Forgive those who betray you, but never trust them again.😔"
                     })]
                 }), p.jsxs("div", {
                     className: "bg-white/5 rounded-xl sm:rounded-2xl p-4 sm:p-6 border border-white/10",
