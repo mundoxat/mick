@@ -9832,7 +9832,7 @@ function Yf() {
       , [n,r] = U.useState({})
       , l = [{
         id: 1,
-        url: "https://xatimg.com/image/ZhaUr1dI1tBd.jpg?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/CxUu22IOQvFu.png?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 1",
         description: "A special memory cherished with care",
         isGif: !1
@@ -9850,7 +9850,7 @@ function Yf() {
         isGif: !1
     }, {
         id: 4,
-        url: "https://xatimg.com/image/WNomsplxG1xH.png?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/p7X3QRGfyLHG.png?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 4",
         description: "A special memory cherished with care",
         isGif: !1
