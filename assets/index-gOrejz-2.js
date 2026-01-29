@@ -9751,7 +9751,7 @@ function Kf() {
                             children: "RO"
                         })]
                     }), p.jsxs("a", {
-                        href: "https://demo.xatspaces.store/xatme/",
+                        href: "https://xatspaces.store",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className: "flex items-center gap-2 px-4 py-2 bg-white/10 rounded-xl border border-white/20 hover:bg-white/20 transition",
