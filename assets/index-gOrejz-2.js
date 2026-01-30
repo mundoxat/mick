@@ -9739,7 +9739,7 @@ function Kf() {
                     children: "Mick"
                 }), p.jsx("p", {
                     className: "text-slate-300 text-base sm:text-lg mb-6",
-                    children: "✨“CONFIDENCE IS THE BEST OUTFIT”"
+                    children: "✨Nothing inspires me with more admiration and respect than an elderly person capable of changing their mind."
                 }), p.jsxs("div", {
                     className: "flex flex-wrap justify-center gap-2 sm:gap-4 mb-8",
                     children: [p.jsxs("div", {
