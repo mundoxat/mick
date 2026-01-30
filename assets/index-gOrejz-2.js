@@ -9581,7 +9581,7 @@ function Xf({onLogin: e}) {
       , [r,l] = U.useState(!1)
       , [i,o] = U.useState(!1)
       , u = U.useRef([])
-      , s = "Mjg0Ng=="  // Base64 pentru parola
+      , s = "MTk5NA=="  // Base64 pentru parola
       , c = "";  // Nu mai avem nevoie de cheie XOR
 
     function v(_, d) {
@@ -9808,7 +9808,7 @@ function Kf() {
                         }), "Quote:"]
                     }), p.jsx("p", {
                         className: "text-slate-300 leading-relaxed",
-                        children: "Forgive those who betray you, but never trust them again.😔"
+                        children: "Character is not formed through atheism, but through religion."
                     })]
                 }), p.jsxs("div", {
                     className: "bg-white/5 rounded-xl sm:rounded-2xl p-4 sm:p-6 border border-white/10",
@@ -9832,25 +9832,25 @@ function Yf() {
       , [n,r] = U.useState({})
       , l = [{
         id: 1,
-        url: "https://xatimg.com/image/Y50mjUacEctE.png?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/tnRVoc0IPJTE.png?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 1",
         description: "A special memory cherished with care",
         isGif: !1
     }, {
         id: 2,
-        url: "https://xatimg.com/image/NedM0UIt4n4k.png?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/0qpklNzxEjks.png?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 2",
         description: "A special memory cherished with care",
         isGif: !0
     }, {
         id: 3,
-        url: "https://xatimg.com/image/QFffP3d33LyC.png?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/oGgY1CMPbcmV.png?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 3",
         description: "A special memory cherished with care",
         isGif: !1
     }, {
         id: 4,
-        url: "https://xatimg.com/image/p7X3QRGfyLHG.png?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/sWP2Ml6PbZVg.png?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 4",
         description: "A special memory cherished with care",
         isGif: !1
@@ -10028,7 +10028,7 @@ function Jf() {
                             children: [p.jsx("div", {
                                 className: "w-20 h-20 rounded-full bg-gradient-to-br from-pink-400 to-pink-600 p-1",
                                 children: p.jsx("img", {
-                                    src: "https://media.tenor.com/QXHAvtiEd4YAAAAM/cheng-xiaoshi-link-click.gif",
+                                    src: "https://xatimg.com/image/iUf8ajdjFSn6.png",
                                     alt: "ELE",
                                     className: "w-full h-full rounded-full object-cover"
                                 })
@@ -10037,17 +10037,17 @@ function Jf() {
                             }), p.jsx("div", {
                                 className: "w-20 h-20 rounded-full bg-gradient-to-br from-purple-400 to-purple-600 p-1",
                                 children: p.jsx("img", {
-                                    src: "https://media.tenor.com/YseiXI4o5bsAAAAM/sad-pout.gif",
+                                    src: "https://xatimg.com/image/gsBU3TuUw3jZ.png",
                                     alt: "ELA",
                                     className: "w-full h-full rounded-full object-cover"
                                 })
                             })]
                         }), p.jsx("h3", {
                             className: "text-2xl font-bold text-center text-white mb-2",
-                            children: "😔"
+                            children: "🤍"
                         }), p.jsx("p", {
                             className: "text-center text-slate-300",
-                            children: "Our Father, who art in heaven, forgive those who lack character and give strength to those who love, so they can forgive those who sin.😞"
+                            children: "Just as love without respect is fleeting and unstable, respect without love is cold and lacks permanence!🤍"
                         })]
                     })]
                 })
@@ -10218,7 +10218,7 @@ function bf({onLogout: e}) {
                                 className: "w-5 h-5"
                             }), p.jsx("span", {
                                 className: "text-xs font-medium",
-                                children: "Old Love"
+                                children: "My Love"
                             })]
                         }), p.jsxs("button", {
                             onClick: () => n("fotos"),
