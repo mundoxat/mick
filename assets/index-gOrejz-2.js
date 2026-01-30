@@ -9687,7 +9687,7 @@ function Xf({onLogin: e}) {
                     }, d))
                 }), r && p.jsx("div", {
                     className: "text-center text-red-400 mb-4 font-medium",
-                    children: "Parolă incorectă. Încearcă din nou."
+                    children: "Incorrect password. Try again."
                 }), p.jsxs("div", {
                     className: "grid grid-cols-3 gap-2 sm:gap-3 mb-4",
                     children: [[1, 2, 3, 4, 5, 6, 7, 8, 9].map(_ => p.jsx("button", {
