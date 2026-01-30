@@ -9838,7 +9838,7 @@ function Yf() {
         isGif: !1
     }, {
         id: 2,
-        url: "https://xatimg.com/image/L9vBnyGxIdCa.png?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/RVAOZOZhbvgS.jpg?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 2",
         description: "A special memory cherished with care",
         isGif: !0
