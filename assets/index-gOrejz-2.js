@@ -9832,13 +9832,13 @@ function Yf() {
       , [n,r] = U.useState({})
       , l = [{
         id: 1,
-        url: "https://xatimg.com/image/NedM0UIt4n4k.png?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/Y50mjUacEctE.png?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 1",
         description: "A special memory cherished with care",
         isGif: !1
     }, {
         id: 2,
-        url: "https://xatimg.com/image/RVAOZOZhbvgS.jpg?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/NedM0UIt4n4k.png?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 2",
         description: "A special memory cherished with care",
         isGif: !0
