@@ -9739,7 +9739,7 @@ function Kf() {
                     children: "Mick"
                 }), p.jsx("p", {
                     className: "text-slate-300 text-base sm:text-lg mb-6",
-                    children: "✨Nothing inspires me with more admiration and respect than an elderly person capable of changing their mind."
+                    children: "✨Character is not formed through atheism, but through religion."
                 }), p.jsxs("div", {
                     className: "flex flex-wrap justify-center gap-2 sm:gap-4 mb-8",
                     children: [p.jsxs("div", {
@@ -9808,7 +9808,7 @@ function Kf() {
                         }), "Quote:"]
                     }), p.jsx("p", {
                         className: "text-slate-300 leading-relaxed",
-                        children: "Character is not formed through atheism, but through religion."
+                        children: "Nothing inspires me with more admiration and respect than an elderly person capable of changing their mind."
                     })]
                 }), p.jsxs("div", {
                     className: "bg-white/5 rounded-xl sm:rounded-2xl p-4 sm:p-6 border border-white/10",
