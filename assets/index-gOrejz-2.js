@@ -10047,7 +10047,7 @@ function Jf() {
                             children: "💥"
                         }), p.jsx("p", {
                             className: "text-center text-slate-300",
-                            children: "When it has nothing to do to you, The world is capable of anything, But when the world talks about you, It means you have value, Dogs bark - the bear walks, This is the law of cleverness."
+                            children: "When no one has anything to do to you, The world is capable of anything, But when people talk about you, It means you are valuable, Dogs bark - the bear walks on, That is the law of cunning."
                         })]
                     })]
                 })
