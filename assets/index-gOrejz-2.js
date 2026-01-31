@@ -9832,25 +9832,25 @@ function Yf() {
       , [n,r] = U.useState({})
       , l = [{
         id: 1,
-        url: "https://xatimg.com/image/tnRVoc0IPJTE.png?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/NedM0UIt4n4k.png?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 1",
         description: "A special memory cherished with care",
         isGif: !1
     }, {
         id: 2,
-        url: "https://xatimg.com/image/0qpklNzxEjks.png?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/p7X3QRGfyLHG.png?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 2",
         description: "A special memory cherished with care",
         isGif: !0
     }, {
         id: 3,
-        url: "https://xatimg.com/image/oGgY1CMPbcmV.png?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/QFffP3d33LyC.png?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 3",
         description: "A special memory cherished with care",
         isGif: !1
     }, {
         id: 4,
-        url: "https://xatimg.com/image/sWP2Ml6PbZVg.png?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/uWYN69b4xO4A.png?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 4",
         description: "A special memory cherished with care",
         isGif: !1
@@ -9886,7 +9886,7 @@ function Yf() {
                     }), p.jsx("div", {
                         className: "relative w-20 h-20 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://xatimg.com/image/tnRVoc0IPJTE.png?img=12",
+                            src: "https://xatimg.com/image/uWYN69b4xO4A.png?img=12",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
@@ -10003,7 +10003,7 @@ function Jf() {
                     }), p.jsx("div", {
                         className: "relative w-24 h-24 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://xatimg.com/image/tnRVoc0IPJTE.png?img=12",
+                            src: "https://xatimg.com/image/uWYN69b4xO4A.png?img=12",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
@@ -10028,7 +10028,7 @@ function Jf() {
                             children: [p.jsx("div", {
                                 className: "w-20 h-20 rounded-full bg-gradient-to-br from-pink-400 to-pink-600 p-1",
                                 children: p.jsx("img", {
-                                    src: "https://xatimg.com/image/iUf8ajdjFSn6.png",
+                                    src: "https://media.tenor.com/EooYV8urvq0AAAAM/how-i-attended-an-all-guys-mixer-anime.gif",
                                     alt: "ELE",
                                     className: "w-full h-full rounded-full object-cover"
                                 })
@@ -10037,17 +10037,17 @@ function Jf() {
                             }), p.jsx("div", {
                                 className: "w-20 h-20 rounded-full bg-gradient-to-br from-purple-400 to-purple-600 p-1",
                                 children: p.jsx("img", {
-                                    src: "https://xatimg.com/image/gsBU3TuUw3jZ.png",
+                                    src: "https://media.tenor.com/JbnLKar05tAAAAAM/anime-girl-light-blue-hair-anime.gif",
                                     alt: "ELA",
                                     className: "w-full h-full rounded-full object-cover"
                                 })
                             })]
                         }), p.jsx("h3", {
                             className: "text-2xl font-bold text-center text-white mb-2",
-                            children: "🤍"
+                            children: "💥"
                         }), p.jsx("p", {
                             className: "text-center text-slate-300",
-                            children: "Just as love without respect is fleeting and unstable, respect without love is cold and lacks permanence!🤍"
+                            children: "When it has nothing to do to you, The world is capable of anything, But when the world talks about you, It means you have value, Dogs bark - the bear walks, This is the law of cleverness."
                         })]
                     })]
                 })
@@ -10218,7 +10218,7 @@ function bf({onLogout: e}) {
                                 className: "w-5 h-5"
                             }), p.jsx("span", {
                                 className: "text-xs font-medium",
-                                children: "My Love"
+                                children: "Old Love"
                             })]
                         }), p.jsxs("button", {
                             onClick: () => n("fotos"),
