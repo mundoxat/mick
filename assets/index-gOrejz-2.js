@@ -9739,7 +9739,7 @@ function Kf() {
                     children: "Mick"
                 }), p.jsx("p", {
                     className: "text-slate-300 text-base sm:text-lg mb-6",
-                    children: "✨Character is not formed through atheism, but through religion."
+                    children: "✨I live a beautiful life, I lack nothing, That's why I can't do like you do, I'm a Taurus and I'm fine like this, Ask your girlfriend because she knows too, Admit how much I've annoyed you, After these words, don't have a heart attack, I have enough lead in my pen, Those who can't stand me can go to hell"
                 }), p.jsxs("div", {
                     className: "flex flex-wrap justify-center gap-2 sm:gap-4 mb-8",
                     children: [p.jsxs("div", {
@@ -9808,7 +9808,7 @@ function Kf() {
                         }), "Quote:"]
                     }), p.jsx("p", {
                         className: "text-slate-300 leading-relaxed",
-                        children: "Nothing inspires me with more admiration and respect than an elderly person capable of changing their mind."
+                        children: "You don't swallow me but you talk about me, Your muscles swell when you criticize me, You comment in front of a monitor, As I, the undersigned, am an emotional criminal, I'm not a fool, I'm not a servant, Whoever doesn't swallow me can suck me"
                     })]
                 }), p.jsxs("div", {
                     className: "bg-white/5 rounded-xl sm:rounded-2xl p-4 sm:p-6 border border-white/10",
