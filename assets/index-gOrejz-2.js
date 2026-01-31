@@ -9659,7 +9659,7 @@ function Xf({onLogin: e}) {
                     }), p.jsx("div", {
                         className: "relative w-24 h-24 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://xatimg.com/image/tnRVoc0IPJTE.png?img=12",
+                            src: "https://xatimg.com/image/kIRoC21AL6bf.png?img=12",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
