@@ -9817,7 +9817,7 @@ function Kf() {
                         children: "Discipline:"
                     }), p.jsx("div", {
                         className: "flex flex-wrap gap-2",
-                        children: ["Faith","Mind", "Time", "Body", "Words", "Money", "Relationships"].map(e => p.jsx("span", {
+                        children: ["Faith","Mind", "Time", "Body", "Words", "Facts", "Money", "Relationships"].map(e => p.jsx("span", {
                             className: "px-4 py-2 bg-white/10 rounded-full text-sm text-white border border-white/20 hover:bg-white/20 transition-all cursor-default",
                             children: e
                         }, e))
