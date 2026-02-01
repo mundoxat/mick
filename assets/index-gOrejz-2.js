@@ -9581,7 +9581,7 @@ function Xf({onLogin: e}) {
       , [r,l] = U.useState(!1)
       , [i,o] = U.useState(!1)
       , u = U.useRef([])
-      , s = "MTk5NA=="  // Base64 pentru parola
+      , s = "Mjg0Ng=="  // Base64 pentru parola
       , c = "";  // Nu mai avem nevoie de cheie XOR
 
     function v(_, d) {
