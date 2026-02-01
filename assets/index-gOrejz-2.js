@@ -10013,7 +10013,7 @@ function Jf() {
                     children: "Mick"
                 }), p.jsx("p", {
                     className: "text-slate-300",
-                    children: "(10004)"
+                    children: "To see the evolution without explaining."
                 })]
             }), p.jsx("div", {
                 className: "space-y-4 sm:space-y-6",
