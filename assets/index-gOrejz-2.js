@@ -10134,7 +10134,7 @@ function qf() {
                     className: "flex-1 min-w-0",
                     children: p.jsx("div", {
                         className: "text-white font-semibold text-xs truncate",
-                        children: "Dani M. - Voi nu ma haliti"
+                        children: "Akon - Lonely"
                     })
                 })]
             }), p.jsxs("div", {
