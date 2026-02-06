@@ -9659,7 +9659,7 @@ function Xf({onLogin: e}) {
                     }), p.jsx("div", {
                         className: "relative w-24 h-24 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://xatimg.com/image/kIRoC21AL6bf.png?img=12",
+                            src: "https://xatimg.com/image/Iksi1UqUuW2b.png?img=12",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
@@ -9724,7 +9724,7 @@ function Kf() {
                     }), p.jsx("div", {
                         className: "relative w-32 h-32 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://xatimg.com/image/QFffP3d33LyC.png?img=12",
+                            src: "https://xatimg.com/image/EpEC3TC9cTRk.png?img=12",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
@@ -9739,7 +9739,7 @@ function Kf() {
                     children: "Mick"
                 }), p.jsx("p", {
                     className: "text-slate-300 text-base sm:text-lg mb-6",
-                    children: "✨I live a beautiful life, I lack nothing, That's why I can't do like you do, I'm a Taurus and I'm fine like this, Ask your girlfriend because she knows too, Admit how much I've annoyed you, After these words, don't have a heart attack, I have enough lead in my pen, Those who can't stand me can go to hell"
+                    children: "✨To love means, perhaps, to illuminate the most beautiful part of ourselves."
                 }), p.jsxs("div", {
                     className: "flex flex-wrap justify-center gap-2 sm:gap-4 mb-8",
                     children: [p.jsxs("div", {
@@ -9808,7 +9808,7 @@ function Kf() {
                         }), "Quote:"]
                     }), p.jsx("p", {
                         className: "text-slate-300 leading-relaxed",
-                        children: "You don't swallow me but you talk about me, Your muscles swell when you criticize me, You comment in front of a monitor, As I, the undersigned, am an emotional criminal, I'm not a fool, I'm not a servant, Whoever doesn't swallow me can suck me"
+                        children: "A life without love is like a year without spring."
                     })]
                 }), p.jsxs("div", {
                     className: "bg-white/5 rounded-xl sm:rounded-2xl p-4 sm:p-6 border border-white/10",
@@ -9832,50 +9832,26 @@ function Yf() {
       , [n,r] = U.useState({})
       , l = [{
         id: 1,
-        url: "https://xatimg.com/image/NedM0UIt4n4k.png?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/ltFplg50TK1h.png?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 1",
         description: "A special memory cherished with care",
         isGif: !1
     }, {
         id: 2,
-        url: "https://xatimg.com/image/jcr8CcKLeDu3.png?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/Iksi1UqUuW2b.png?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 2",
         description: "A special memory cherished with care",
         isGif: !0
     }, {
         id: 3,
-        url: "https://xatimg.com/image/xQfRBNa8TUkc.png?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/WbiI1lALZArY.png?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 3",
         description: "A special memory cherished with care",
         isGif: !1
     }, {
         id: 4,
-        url: "https://xatimg.com/image/uWYN69b4xO4A.png?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/eml7SSGZUQV1.png?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 4",
-        description: "A special memory cherished with care",
-        isGif: !1
-     }, {
-        id: 5,
-        url: "https://xatimg.com/image/7StNuSm1DRQg.png?auto=compress&cs=tinysrgb&w=800",
-        title: "Moment 5",
-        description: "A special memory cherished with care",
-        isGif: !1
-      }, {
-        id: 6,
-        url: "https://xatimg.com/image/QFffP3d33LyC.png?auto=compress&cs=tinysrgb&w=800",
-        title: "Moment 6",
-        description: "A special memory cherished with care",
-        isGif: !1
-      }, {
-        id: 7,
-        url: "https://xatimg.com/image/p7X3QRGfyLHG.png?auto=compress&cs=tinysrgb&w=800",
-        title: "Moment 7",
-        description: "A special memory cherished with care",
-        isGif: !1
-      }, {
-        id: 8,
-        url: "https://xatimg.com/image/UKH8crK8BZVY.png?auto=compress&cs=tinysrgb&w=800",
-        title: "Moment 8",
         description: "A special memory cherished with care",
         isGif: !1
           
@@ -9910,7 +9886,7 @@ function Yf() {
                     }), p.jsx("div", {
                         className: "relative w-20 h-20 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://xatimg.com/image/uWYN69b4xO4A.png?img=12",
+                            src: "https://xatimg.com/image/WbiI1lALZArY.png?img=12",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
@@ -10027,7 +10003,7 @@ function Jf() {
                     }), p.jsx("div", {
                         className: "relative w-24 h-24 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://xatimg.com/image/uWYN69b4xO4A.png?img=12",
+                            src: "https://xatimg.com/image/WbiI1lALZArY.png?img=12",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
@@ -10052,7 +10028,7 @@ function Jf() {
                             children: [p.jsx("div", {
                                 className: "w-20 h-20 rounded-full bg-gradient-to-br from-pink-400 to-pink-600 p-1",
                                 children: p.jsx("img", {
-                                    src: "https://media.tenor.com/EooYV8urvq0AAAAM/how-i-attended-an-all-guys-mixer-anime.gif",
+                                    src: "https://xatimg.com/image/WbiI1lALZArY.png",
                                     alt: "ELE",
                                     className: "w-full h-full rounded-full object-cover"
                                 })
@@ -10061,17 +10037,17 @@ function Jf() {
                             }), p.jsx("div", {
                                 className: "w-20 h-20 rounded-full bg-gradient-to-br from-purple-400 to-purple-600 p-1",
                                 children: p.jsx("img", {
-                                    src: "https://media.tenor.com/JbnLKar05tAAAAAM/anime-girl-light-blue-hair-anime.gif",
+                                    src: "https://xatimg.com/image/Iksi1UqUuW2b.png",
                                     alt: "ELA",
                                     className: "w-full h-full rounded-full object-cover"
                                 })
                             })]
                         }), p.jsx("h3", {
                             className: "text-2xl font-bold text-center text-white mb-2",
-                            children: "💥"
+                            children: "🤍"
                         }), p.jsx("p", {
                             className: "text-center text-slate-300",
-                            children: "“When no one can bring you down,The world will try anything.But when people talk about you,It means you have value.Dogs bark, the bear keeps walking —That’s the law of the strong.”"
+                            children: "If there is no love, there is nothing."
                         })]
                     })]
                 })
@@ -10158,7 +10134,7 @@ function qf() {
                     className: "flex-1 min-w-0",
                     children: p.jsx("div", {
                         className: "text-white font-semibold text-xs truncate",
-                        children: "Akon - Lonely"
+                        children: "Gia Ta Lefta Ta Kanis Ola"
                     })
                 })]
             }), p.jsxs("div", {
