@@ -10218,7 +10218,7 @@ function bf({onLogout: e}) {
                                 className: "w-5 h-5"
                             }), p.jsx("span", {
                                 className: "text-xs font-medium",
-                                children: "Old Love"
+                                children: "My Love"
                             })]
                         }), p.jsxs("button", {
                             onClick: () => n("fotos"),
