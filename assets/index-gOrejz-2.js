@@ -9659,7 +9659,7 @@ function Xf({onLogin: e}) {
                     }), p.jsx("div", {
                         className: "relative w-24 h-24 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://xatimg.com/image/Iksi1UqUuW2b.png?img=12",
+                            src: "https://xatimg.com/image/CFllr03eChFX.jpg?img=12",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
@@ -9724,7 +9724,7 @@ function Kf() {
                     }), p.jsx("div", {
                         className: "relative w-32 h-32 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://xatimg.com/image/EpEC3TC9cTRk.png?img=12",
+                            src: "https://xatimg.com/image/7StNuSm1DRQg.png?img=12",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
@@ -9832,25 +9832,25 @@ function Yf() {
       , [n,r] = U.useState({})
       , l = [{
         id: 1,
-        url: "https://xatimg.com/image/ltFplg50TK1h.png?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/vKmEsXXCKxFl.png?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 1",
         description: "A special memory cherished with care",
         isGif: !1
     }, {
         id: 2,
-        url: "https://xatimg.com/image/Iksi1UqUuW2b.png?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/CFllr03eChFX.jpg?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 2",
         description: "A special memory cherished with care",
         isGif: !0
     }, {
         id: 3,
-        url: "https://xatimg.com/image/WbiI1lALZArY.png?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/7StNuSm1DRQg.png?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 3",
         description: "A special memory cherished with care",
         isGif: !1
     }, {
         id: 4,
-        url: "https://xatimg.com/image/eml7SSGZUQV1.png?auto=compress&cs=tinysrgb&w=800",
+        url: "https://xatimg.com/image/tjE5BDmrsFHN.png?auto=compress&cs=tinysrgb&w=800",
         title: "Moment 4",
         description: "A special memory cherished with care",
         isGif: !1
@@ -9886,7 +9886,7 @@ function Yf() {
                     }), p.jsx("div", {
                         className: "relative w-20 h-20 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://xatimg.com/image/WbiI1lALZArY.png?img=12",
+                            src: "https://xatimg.com/image/E24rixS4EVlN.png?img=12",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
@@ -10003,7 +10003,7 @@ function Jf() {
                     }), p.jsx("div", {
                         className: "relative w-24 h-24 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 p-1",
                         children: p.jsx("img", {
-                            src: "https://xatimg.com/image/WbiI1lALZArY.png?img=12",
+                            src: "https://xatimg.com/image/vKmEsXXCKxFl.png?img=12",
                             alt: "Profile",
                             className: "w-full h-full rounded-full object-cover"
                         })
@@ -10028,7 +10028,7 @@ function Jf() {
                             children: [p.jsx("div", {
                                 className: "w-20 h-20 rounded-full bg-gradient-to-br from-pink-400 to-pink-600 p-1",
                                 children: p.jsx("img", {
-                                    src: "https://xatimg.com/image/WbiI1lALZArY.png",
+                                    src: "https://media.tenor.com/f3XybJki0H4AAAAM/anime-thinking.gif",
                                     alt: "ELE",
                                     className: "w-full h-full rounded-full object-cover"
                                 })
@@ -10037,7 +10037,7 @@ function Jf() {
                             }), p.jsx("div", {
                                 className: "w-20 h-20 rounded-full bg-gradient-to-br from-purple-400 to-purple-600 p-1",
                                 children: p.jsx("img", {
-                                    src: "https://xatimg.com/image/Iksi1UqUuW2b.png",
+                                    src: "https://media.tenor.com/JbnLKar05tAAAAAM/anime-girl-light-blue-hair-anime.gif",
                                     alt: "ELA",
                                     className: "w-full h-full rounded-full object-cover"
                                 })
